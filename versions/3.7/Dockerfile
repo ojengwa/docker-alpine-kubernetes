@@ -1,5 +1,5 @@
 FROM alpine:3.7
-MAINTAINER Bernard Ojengwa <janeczku@yahoo.com>
+MAINTAINER Bernard Ojengwa <bernardojengwa@gmail.com>
 
 ##
 ## S6 Overlay && go-dnsmasq
